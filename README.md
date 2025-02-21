@@ -1,2 +1,20 @@
-# laravel-api-boilerplate
-The Laravel API Boilerplate is a starter template designed for building robust, scalable, and secure RESTful APIs using Laravel 11. It includes authentication, role-based access control, CRUD operations, and API documentation to accelerate API development.
+# 🚀 Laravel API Boilerplate
+
+A **Laravel 11 API boilerplate** with authentication, role-based access, and structured API setup.
+
+## ✨ Features
+✅ Laravel Sanctum (API Authentication)  
+✅ Role-Based Access Control (RBAC)  
+✅ RESTful API Structure  
+✅ CRUD Example  
+✅ Swagger API Documentation  
+✅ Middleware & Exception Handling  
+
+---
+
+## 🔧 Installation
+
+### **1️⃣ Clone the repository**
+```bash
+git clone https://github.com/your-username/laravel-api-boilerplate.git
+cd laravel-api-boilerplate
